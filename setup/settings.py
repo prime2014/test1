@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY", "p4+1y5uczbe!+yld1cgw@%zfw9-gz+
 
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://timiza.herokuapp.com/"]
+ALLOWED_HOSTS = ["timiza.herokuapp.com"]
 
 
 # Application definition
